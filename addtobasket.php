@@ -73,3 +73,7 @@ echo "</form>";
 }
 require("footer.php");
 ?>
+
+This is the add to cart page for add the products in cart
+this is add to cart functionality for the project
+this is add to cart functionality for the project
