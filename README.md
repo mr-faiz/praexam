@@ -33,3 +33,4 @@ REFERENCES
 
 
 login:create the validation in login file
+add to cart and registration functionality is completed
