@@ -1,4 +1,5 @@
 <?php
+echo "This file is edited by Faizal";
 session_start();
 require("connection.php");
 if(isset($_SESSION['SESS_LOGGEDIN'])) {
