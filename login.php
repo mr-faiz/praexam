@@ -62,3 +62,4 @@ echo "<strong>Incorrect username/password</strong>";
 }
 require("footer.php");
 ?>
+<?php if(isset([submit]){if([userbox]==null){echoplease enter username}if([passbox]==null){echo please enter password}})?>
